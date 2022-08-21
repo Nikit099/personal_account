@@ -1,5 +1,5 @@
 Запустить приложение и json-server можно одной командой 
-npm run server
+"npm run server"
 
 Данные для входа 
 email: test@gmail.com
